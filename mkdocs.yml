@@ -1,0 +1,53 @@
+site_name: AZ - 900
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - navigation.instant
+    - header.autohide
+    - navigation.tabs
+  language: en
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: black
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: lime
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  logo: img/AZ.png
+  favicon: img/AZ.png
+font:
+  text: Nunito
+  code: Ubuntu Mono
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Vimal007Vimal
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/vimald2004/
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@2004.vimald
+    - icon: fontawesome/solid/link
+      link: https://vimald.netlify.app
