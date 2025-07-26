@@ -17,7 +17,7 @@ Welcome to the AZ-900 Azure Fundamentals study guide! This website offers a comp
   <div style="text-align: center;">
     <dotlottie-wc 
       src="https://lottie.host/bfe82ae8-4dba-4259-8fce-1b2d690c1e31/hliooJaNMm.lottie" 
-      style="width: 400px; height: 400px;" 
+      style="width: 400px; height: 350px;" 
       speed="1.2" 
       autoplay 
       loop>
