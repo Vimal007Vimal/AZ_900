@@ -9,15 +9,15 @@ Welcome to the AZ-900 Azure Fundamentals study guide! This website offers a comp
 
   <!-- AZ-900 Image -->
   <div style="text-align: center;">
-    <img src="./img/azout.png" alt="AZ-900 Study Guide" width="250" height="250" style="display: block; margin: auto;" />
-    <p style="font-size: 14px; margin-top: 10px; color: #aaa;">AZ-900 Study Guide</p>
+    <img src="./img/azout.png" alt="AZ-900 Study Guide" width="200" height="200" style="display: block; margin: auto;" />
+    <p style="font-size: 12px; margin-top: 10px; color: #aaa;">AZ-900 Study Guide</p>
   </div>
 
   <!-- Lottie Animation -->
   <div style="text-align: center;">
     <dotlottie-wc 
       src="https://lottie.host/bfe82ae8-4dba-4259-8fce-1b2d690c1e31/hliooJaNMm.lottie" 
-      style="width: 250px; height: 250px;" 
+      style="width: 300px; height: 300px;" 
       speed="1.2" 
       autoplay 
       loop>
