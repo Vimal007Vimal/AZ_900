@@ -1,5 +1,5 @@
 
-# IaaS, PaaS, SaaS and their differences 
+## IaaS, PaaS, SaaS and their differences 
 
 ### components
 Here are the key components of software required to work effectively:
