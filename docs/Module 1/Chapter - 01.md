@@ -14,7 +14,7 @@ Cloud Computing is the delivery of computing services over the Internet, enablin
 3. **STORAGE:** Responsible for storing data and information.
 4. **ANALYTICS:** Handles important tasks such as determining memory requirements, performance metrics, etc.
 
-![cloudservice](/img/cloud.png)
+![cloudservice](../img/cloud.png)
 
 ---
 
@@ -29,7 +29,7 @@ Scalability is the ability to scale. Scaling is the process of allocating (addin
 2. **Horizontal Scaling (Scale Out/In):**- If one virtual machine (VM) is heavily utilized, traffic is shifted to another VM. This is managed by a load balancer.
 
 
-![Scalability](/img/Scalability.png)
+![Scalability](../img/Scalability.png)
 
 ---
 
@@ -38,7 +38,7 @@ Scalability is the ability to scale. Scaling is the process of allocating (addin
 Elasticity is the ability to scale dynamically
 
 
-![Elasticity](/img/Elasticity.png)
+![Elasticity](../img/Elasticity.png)
 
 ---
 

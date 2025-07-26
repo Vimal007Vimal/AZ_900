@@ -19,4 +19,4 @@ The consumption-based model is a pricing model used in cloud services where cust
 
 ### Visual Representation:
 
-![Consumption-Based Model](/img/chap4.png)
+![Consumption-Based Model](../img/chap4.png)

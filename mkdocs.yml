@@ -1,4 +1,7 @@
-site_name: AZ - 900
+site_name: AZ-900 Azure Fundamentals
+site_url: https://Vimal007Vimal.github.io/AZ_900
+repo_url: https://github.com/Vimal007Vimal/AZ_900
+repo_name: GitHub
 theme:
   name: material
   features:
@@ -51,3 +54,57 @@ extra:
       link: https://medium.com/@2004.vimald
     - icon: fontawesome/solid/link
       link: https://vimald.netlify.app
+  copyright: "© 2025 Vimal D. All rights reserved."
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Module 1:
+      - Abstract: 'Module 1/Abstract.md'
+      - Chapter 1: 'Module 1/Chapter - 01.md'
+      - Chapter 2: 'Module 1/Chapter - 02.md'
+      - Chapter 3: 'Module 1/Chapter - 03.md'
+      - Chapter 4: 'Module 1/Chapter - 04.md'
+      - Chapter 5: 'Module 1/Chapter - 05.md'
+      - Chapter 6: 'Module 1/Chapter - 06.md'
+  - Module 2:
+      - Abstract: 'Module 2/Abstract.md'
+      - Chapter 7: 'Module 2/Chapter - 07.md'
+      - Chapter 8: 'Module 2/Chapter - 08.md'
+      - Chapter 9: 'Module 2/Chapter - 09.md'
+      - Chapter 10: 'Module 2/Chapter - 10.md'
+      - Chapter 11: 'Module 2/Chapter - 11.md'
+      - Chapter 12: 'Module 2/Chapter - 12.md'
+      - Chapter 13: 'Module 2/Chapter - 13.md'
+      - Chapter 14: 'Module 2/Chapter - 14.md'
+      - Chapter 15: 'Module 2/Chapter - 15.md'
+      - Chapter 16: 'Module 2/Chapter - 16.md'
+      - Chapter 17: 'Module 2/Chapter - 17.md'
+      - Chapter 18: 'Module 2/Chapter - 18.md'
+      - Chapter 19: 'Module 2/Chapter - 19.md'
+      - Chapter 20: 'Module 2/Chapter - 20.md'
+  - Module 3:
+      - Abstract: 'Module 3/Abstract.md'
+      - Chapter 21: 'Module 3/Chapter - 21.md'
+      - Chapter 22: 'Module 3/Chapter - 22.md'
+      - Chapter 23: 'Module 3/Chapter - 23.md'
+      - Chapter 24: 'Module 3/Chapter - 24.md'
+      - Chapter 25: 'Module 3/Chapter - 25.md'
+      - Chapter 26: 'Module 3/Chapter - 26.md'
+      - Chapter 27: 'Module 3/Chapter - 27.md'
+      - Chapter 28: 'Module 3/Chapter - 28.md'
+      - Chapter 29: 'Module 3/Chapter - 29.md'
+      - Chapter 30: 'Module 3/Chapter - 30.md'
+      - Chapter 31: 'Module 3/Chapter - 31.md'
+      - Chapter 32: 'Module 3/Chapter - 32.md'
+      - Chapter 33: 'Module 3/Chapter - 33.md'
+      - Chapter 34: 'Module 3/Chapter - 34.md'
+  - Module 4:
+      - Abstract: 'Module 4/Abstract.md'
+      - Chapter 35: 'Module 4/Chapter - 35.md'
+      - Chapter 36: 'Module 4/Chapter - 36.md'
+      - Chapter 37: 'Module 4/Chapter - 37.md'
+      - Chapter 38: 'Module 4/Chapter - 38.md'
+      - Chapter 39: 'Module 4/Chapter - 39.md'
+  - 404: 404.md
+

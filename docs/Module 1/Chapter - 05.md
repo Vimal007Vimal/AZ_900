@@ -4,14 +4,14 @@
 ### components
 Here are the key components of software required to work effectively:
 
-![SPI Model](/img/spi.png)
+![SPI Model](../img/spi.png)
 
 ---
 
 ### On-Premises
 On-premises refers to a computing model where all hardware, software, and resources are hosted and managed within the organization's physical premises. This traditional approach provides complete control but requires significant investment in infrastructure and maintenance.
 
-![On-Premise](/img/OP.png)
+![On-Premise](../img/OP.png)
 
 ---
 
@@ -23,7 +23,7 @@ Infrastructure-as-a-Service (IaaS) provides virtualized computing resources over
 - **Cost-effective:** Pay-as-you-go pricing eliminates upfront hardware costs.
 - **Control:** Provides significant control over your infrastructure.
 
-![IaaS](/img/laas.png)
+![IaaS](../img/laas.png)
 
 ---
 
@@ -35,7 +35,7 @@ Platform-as-a-Service (PaaS) is a cloud computing model that delivers hardware a
 - **Pre-built Components:** Includes tools for testing, development, and deployment.
 - **Flexibility:** Supports multiple programming languages and frameworks.
 
-![PaaS](/img/paas.png)
+![PaaS](../img/paas.png)
 
 ---
 
@@ -47,7 +47,7 @@ Software-as-a-Service (SaaS) delivers software applications over the internet on
 - **Accessibility:** Can be accessed from any device with an internet connection.
 - **Automatic Updates:** Providers handle updates and maintenance.
 
-![SaaS](/img/saas.png)
+![SaaS](../img/saas.png)
 
 ---
 

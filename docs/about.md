@@ -5,7 +5,7 @@
 AZ-900 Microsoft Azure Fundamentals certification is the first and the most important certification for anyone who is just starting with Azure. It’s very exciting for me to release this course to everyone!
 
 ## Path Overview
-![AZ-900 Study Guide](img/CP.png)
+![AZ-900 Study Guide](./img/CP.png)
 ## Navigation
 
 ### Chapters

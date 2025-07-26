@@ -5,7 +5,7 @@
 Welcome to the AZ-900 Azure Fundamentals study guide! This website offers a comprehensive overview and study content to help you prepare for the Microsoft Azure Fundamentals exam. Whether you're new to Azure or looking to refresh your knowledge, you'll find everything you need here.
 
 
-<img src="img/azout.png" alt="AZ-900 Study Guide" width="500" hight="500"/>
+<img src="./img/azout.png" alt="AZ-900 Study Guide" width="500" height="500"/>
 
 
 ## Contact

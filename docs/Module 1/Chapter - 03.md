@@ -29,5 +29,5 @@
   - Leasing office space
   - Software subscriptions or cloud services
 
-![Scalability](/img/chap3.png)
+![Scalability](../img/chap3.png)
 
