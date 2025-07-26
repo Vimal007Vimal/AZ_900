@@ -8,7 +8,7 @@ Welcome to the AZ-900 Azure Fundamentals study guide! This website offers a comp
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin-top: 30px;">
 
   <!-- AZ-900 Image -->
-  <div style="text-align: left;">
+  <div style="text-align: center;">
     <img src="./img/azout.png" alt="AZ-900 Study Guide" width="150" height="150" style="display: block; margin: auto;" />
     <p style="font-size: 12px; margin-top: 10px; color: #aaa;">AZ-900 Study Guide</p>
   </div>
