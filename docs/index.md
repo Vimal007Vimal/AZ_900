@@ -4,7 +4,7 @@
 
 Welcome to the AZ-900 Azure Fundamentals study guide! This website offers a comprehensive overview and study content to help you prepare for the Microsoft Azure Fundamentals exam. Whether you're new to Azure or looking to refresh your knowledge, you'll find everything you need here.
 
-<!-- Image and GIF side by side -->
+<!-- Image and Lottie animation side by side -->
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin-top: 30px;">
 
   <!-- AZ-900 Image -->
@@ -13,22 +13,21 @@ Welcome to the AZ-900 Azure Fundamentals study guide! This website offers a comp
     <p style="font-size: 14px; margin-top: 10px; color: #aaa;">AZ-900 Study Guide</p>
   </div>
 
-  <!-- Transparent Maintenance GIF from Tenor -->
-  <div class="tenor-gif-embed"
-       data-postid="21247195"
-       data-share-method="host"
-       data-aspect-ratio="1"
-       data-width="150px"
-       style="background: transparent;">
-    <a href="https://tenor.com/view/loading-working-maintenance-under-construction-progress-gif-21247195">
-      Maintenance Transparent GIF
-    </a>
+  <!-- Lottie Animation -->
+  <div style="text-align: center;">
+    <dotlottie-wc 
+      src="https://lottie.host/bfe82ae8-4dba-4259-8fce-1b2d690c1e31/hliooJaNMm.lottie" 
+      style="width: 200px; height: 200px;" 
+      speed="1" 
+      autoplay 
+      loop>
+    </dotlottie-wc>
   </div>
 
 </div>
 
-<!-- Tenor Script for GIF -->
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<!-- Lottie Script -->
+<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
 
 ---
 
