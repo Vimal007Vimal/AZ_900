@@ -5,11 +5,11 @@
 Welcome to the AZ-900 Azure Fundamentals study guide! This website offers a comprehensive overview and study content to help you prepare for the Microsoft Azure Fundamentals exam. Whether you're new to Azure or looking to refresh your knowledge, you'll find everything you need here.
 
 <!-- Image and Lottie animation side by side -->
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin-top: 30px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin-top: 30px;">
 
   <!-- AZ-900 Image -->
   <div style="text-align: center;">
-    <img src="./img/azout.png" alt="AZ-900 Study Guide" width="200" height="200" style="display: block; margin: auto;" />
+    <img src="./img/azout.png" alt="AZ-900 Study Guide" width="250" height="250" style="display: block; margin: auto;" />
     <p style="font-size: 14px; margin-top: 10px; color: #aaa;">AZ-900 Study Guide</p>
   </div>
 
@@ -17,8 +17,8 @@ Welcome to the AZ-900 Azure Fundamentals study guide! This website offers a comp
   <div style="text-align: center;">
     <dotlottie-wc 
       src="https://lottie.host/bfe82ae8-4dba-4259-8fce-1b2d690c1e31/hliooJaNMm.lottie" 
-      style="width: 200px; height: 200px;" 
-      speed="1" 
+      style="width: 250px; height: 250px;" 
+      speed="1.2" 
       autoplay 
       loop>
     </dotlottie-wc>
